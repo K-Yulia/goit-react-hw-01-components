@@ -7,7 +7,7 @@ export const Wrapper = styled.div`
   font-size: 20px;
   margin-top: 30px;
   margin-bottom: 30px;
-  background-color: #00bcd440;
+  background-color: #00bcd4;
 `;
 
 export const Description = styled.div`
@@ -45,7 +45,7 @@ export const StatsList = styled.ul`
   padding: 0px;
   justify-content: center;
   list-style: none;
-  background-color: #f3f6f9;
+  background-color: #118796;
 `;
 
 export const StatsItem = styled.li`
