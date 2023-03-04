@@ -6,6 +6,4 @@ export const List = styled.ul`
   font-size: 20px;
   padding-left: 0;
   flex-direction: column;
-
-  /* list-style: none; */
 `;

@@ -7,8 +7,6 @@ export const StatisticsSection = styled.section`
   border: grey solid 2px;
   font-size: 20px;
   margin-bottom: 30px;
-  /* background-color: #be184fad; */
-  display: flex;
   flex-direction: column;
   align-items: center;
 `;
@@ -30,7 +28,6 @@ export const StatisticsList = styled.ul`
   justify-content: center;
   width: 100%;
   border-top: 1px solid #72777e;
-  /* border-radius: 5px; */
 `;
 
 export const StatisticsItem = styled.li`

@@ -53,7 +53,6 @@ export const StatsItem = styled.li`
   border: 1px solid #72777e;
   flex-direction: column;
   align-items: center;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding: 20px 0;
   flex-basis: calc((100% - 2px) / 3);
 `;

@@ -8,7 +8,6 @@ export const ListItem = styled.li`
   margin-bottom: 10px;
   padding: 10px 20px;
   background-color: #efe5e5;
-  display: flex;
   align-items: center;
 `;
 export const Status = styled.span`
